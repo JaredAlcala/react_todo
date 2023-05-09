@@ -1,0 +1,62 @@
+section.abouts {
+    background-image: url('../images/404.png');
+    min-height: 78vh;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 118%;
+}
+
+section.abouts {
+    padding: 2em 0 4em;
+}
+
+/* Below are the rules for creating out title */
+ div.about{
+    background-color: rgba(200, 200, 200, .8);
+    border-radius: 5px;
+    margin: 0;
+    text-align: center;
+    border: 2px solid #212529;
+    position: relative;
+    padding: 0 0 2em;
+    height: 15em;
+}
+
+div.about h2 {
+    background-color: grey;
+    padding: .5em 0;
+    border-bottom: 4px soid #212529;
+    color: #212529;
+}
+
+ p {
+    padding: 1em;
+    width: 65%;
+    margin: auto;
+}   
+
+.pop{
+    background-image: url('../images/we-love-offering-aloha.jpg');
+    background-repeat: no-repeat;
+    background-size: 63%;
+    background-position: center;
+  }
+  
+  @media screen and (max-width: 1348px) {
+    section.categories {
+        background-size: cover;
+        position: relative;
+    }
+    .pop{
+       position: relative;
+    }
+}
+table{
+    width: 50% !important;
+    position: relative !important;
+    left: 25% !important;
+}
+
+h2{
+    margin-top: 1em !important;
+}

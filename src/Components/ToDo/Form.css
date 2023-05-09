@@ -1,0 +1,12 @@
+.task {
+    width: 50% !important;
+    position: relative !important;
+    left: 25% !important;
+    border-color: black;
+}
+ .cat {
+    width: 50% !important;
+    position: relative !important;
+    left: 25% !important;
+    border-color: black;
+}
