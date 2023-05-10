@@ -1,5 +1,5 @@
 section.toDo {
-    background-image: url('../../images/404.png');
+    background-image: url('../../images/DarkMountains.jfif');
     min-height: 78vh;
     background-color: black;
     background-repeat: no-repeat;
@@ -33,7 +33,7 @@ div.singleToDo p {
     padding: 1em;
 }
 .pop{
-    background-image: url('../../images/we-love-offering-aloha.jpg');
+    background-image: url('#');
     background-repeat: no-repeat;
     background-size: 63%;
     background-position: center;
