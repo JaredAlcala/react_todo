@@ -33,7 +33,7 @@ div.singleCategory p {
     padding: 1em;
 }
 .pop{
-    background-image: url('../../images/we-love-offering-aloha.jpg');
+    background-image: url('#');
     background-repeat: no-repeat;
     background-size: 63%;
     background-position: center;
